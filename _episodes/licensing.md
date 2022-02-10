@@ -1,6 +1,6 @@
 ---
 title: Rights and Licensing
-teaching: 10
+teaching: 12
 exercises: 10
 duration: 0
 summary: Licensing is a common difficulty in academia because universities
