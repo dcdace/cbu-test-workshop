@@ -12,6 +12,9 @@ start_times:
   - 12|00
 setup_files:
   - git
+  - python
+  - r
+  - shell
 language: en
 venue: null
 address: null
