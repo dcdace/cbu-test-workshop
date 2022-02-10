@@ -1,6 +1,6 @@
 ---
 title: Why share?
-teaching: 0
+teaching: 2
 exercises: 30
 duration: 0
 summary: In this lesson we consider some of the reasons why people share code
